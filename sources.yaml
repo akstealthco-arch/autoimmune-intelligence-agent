@@ -1,0 +1,25 @@
+publications:
+  - pubmed
+  - google_scholar
+  - biorxiv
+  - medrxiv
+
+clinical:
+  - clinicaltrials
+
+regulatory:
+  - fda
+
+news:
+  - reuters
+  - statnews
+  - fiercebiotech
+  - endpoints
+
+companies:
+  - anokion
+  - gentibio
+  - roche
+  - sanofi
+  - novartis
+  - eli_lilly
