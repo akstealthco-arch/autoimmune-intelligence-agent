@@ -1,0 +1,49 @@
+diseases:
+  - type 1 diabetes
+  - T1D
+
+  - progressive multiple sclerosis
+  - primary progressive multiple sclerosis
+  - secondary progressive multiple sclerosis
+  - PPMS
+  - SPMS
+
+  - lupus
+  - systemic lupus erythematosus
+  - rheumatoid arthritis
+  - sjogrens syndrome
+  - crohns disease
+  - ulcerative colitis
+  - celiac disease
+  - psoriasis
+  - autoimmune hepatitis
+  - myasthenia gravis
+
+mechanisms:
+  - pd-1 agonist
+  - pd-l1 agonist
+  - pd-1 pathway
+  - immune checkpoint agonist
+
+  - immune tolerance
+  - antigen-specific tolerance
+  - peripheral tolerance
+
+  - regulatory t cell
+  - treg
+  - engineered treg
+  - car-treg
+
+  - lag-3 agonist
+  - ctla-4 agonist
+
+  - t cell exhaustion
+  - immune reset
+
+stages:
+  - preclinical
+  - phase 1
+  - phase 2
+  - phase 3
+  - pivotal
+  - fda approval
